@@ -1,3 +1,7 @@
+To play my text adventure game works colab would work best to run it.
+my colab notebook is https://colab.research.google.com/drive/1eTfUwNbnHwfsMHV60AaYdz-cZMv0hf3a#scrollTo=YHTDm2kJg_G
+this game only requires simple numerical inputs to play after running and is played from the colab terminal
+
 # 2020 Hackathon
 
 > **Date**: Saturday, April 4th, 2020
